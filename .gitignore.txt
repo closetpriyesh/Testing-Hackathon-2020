@@ -1,15 +1,1 @@
 .idea/
-.iml
-out
-gen
-idea-gitignore.jar
-resourcestemplates.list
-resourcesgitignore
-build
-build.properties
-junit.properties
-IgnoreLexer.java~
-.gradle
-.DS_Store
-
-verification
